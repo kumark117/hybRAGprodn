@@ -1,0 +1,22 @@
+[
+  {
+    "question": "How does the system handle retries?",
+    "relevant_document_ids": ["retry-guide"]
+  },
+  {
+    "question": "What is Reciprocal Rank Fusion?",
+    "relevant_document_ids": ["hybrid-search"]
+  },
+  {
+    "question": "How are tenants isolated in retrieval?",
+    "relevant_document_ids": ["security"]
+  },
+  {
+    "question": "What is time to first token?",
+    "relevant_document_ids": ["observability"]
+  },
+  {
+    "question": "Why use BM25 together with dense vectors?",
+    "relevant_document_ids": ["hybrid-search"]
+  }
+]
